@@ -35,9 +35,17 @@ The queen’s role in a swarm is central; she is the genetic linchpin of the new
 
 Worker bees are the architects and soldiers of the swarm. They protect the queen, scout for new locations, and eventually build the new hive. Their coordinated efforts are critical for the swarm's survival.
 
----
+# Understanding Swarms in Maui
 
-This guide highlights the sophisticated social structure and survival strategies of bees. Swarming, while often seen as a nuisance, is a complex, natural response to environmental and social cues that ensures the continued survival of bees.
+Swarms can be particularly challenging in Maui due to its dense vegetation and warm climate. This guide provides essential knowledge to manage and prevent unwanted swarms.
+
+## Causes of Swarming
+
+Learn about the specific conditions that trigger swarms in Maui's unique climate, including overpopulation and seasonal changes.
+
+## Managing Swarms
+
+Effective strategies for managing swarms in Maui, focusing on humane relocation and prevention.
 
 <!-- ## Further reading -->
 

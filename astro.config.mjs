@@ -28,12 +28,16 @@ export default defineConfig({
               label: "Understanding Swarms",
               link: "/guides/understanding/",
             },
+            {
+              label: "Communication",
+              link: "/guides/communication/",
+            },
           ],
         },
         {
-          label: "Reference",
+          label: "Beekeeping in Maui",
           autogenerate: {
-            directory: "reference",
+            directory: "maui",
           },
         },
       ],
