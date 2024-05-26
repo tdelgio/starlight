@@ -1,0 +1,18 @@
+* {
+  color: #ffa400;
+}
+
+p {
+  color: black;
+}
+span {
+  color: black;
+}
+
+:where(.astro-3ii7xxms)[aria-current="page"],
+:where(.astro-3ii7xxms)[aria-current="page"]:hover,
+:where(.astro-3ii7xxms)[aria-current="page"]:focus {
+  font-weight: 600; /* Keeps the bold font weight */
+  color: #ffffff; /* Changes the text color to white */
+  background-color: #ffa400; /* Changes the background to a blue color */
+}
